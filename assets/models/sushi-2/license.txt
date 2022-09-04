@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sushi
+* source:	https://sketchfab.com/3d-models/sushi-fe1a65abb15a4a7c83a908e0126fc525
+* author:	Snowforge (https://sketchfab.com/Snowforge)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sushi" (https://sketchfab.com/3d-models/sushi-fe1a65abb15a4a7c83a908e0126fc525) by Snowforge (https://sketchfab.com/Snowforge) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
